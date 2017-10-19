@@ -1,0 +1,118 @@
+body {
+  font-family: 'Special Elite', cursive;
+}
+
+p {
+  font-size: 14px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  filter: blur(3px);
+}
+
+img:hover{
+  width: 220px;
+  height: 220px;
+  filter: blur(0px);
+  cursor: pointer;
+}
+
+.header {
+  position: relative;
+}
+
+#subrayado {
+  width: 70px;
+  height: 5px;
+  background-color: #656666;
+  border-radius: 5px;
+  position: relative;
+  bottom: 10px;
+}
+
+/* CINTIA GONZALEZ */
+.img1 {
+  position: relative;
+  float: left;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+
+#cintia {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+}
+
+/* DANIELA AGUILAR */
+.img2 {
+  position: relative;
+  float: left;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+
+#daniela {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+}
+
+/* DOMINICA PALETA */
+.img3 {
+  position: relative;
+  float: left;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+
+#dominica {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+}
+
+/* FERNANDA LÓPEZ */
+.img4 {
+  position: relative;
+  float: left;
+  margin-top: 50px;
+  margin-right: 50px;
+  clear: left;
+}
+
+#fernanda {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+}
+
+/* IGNACIA MARTÍNEZ */
+.img5 {
+  position: relative;
+  float: left;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+
+#ignacia {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+}
+
+/* PATRICIA DURÁN */
+.img6 {
+  position: relative;
+  float: left;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+
+#patricia {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+}
